@@ -10,4 +10,5 @@ public class BrainApplication {
 		SpringApplication.run(BrainApplication.class, args);
 	}
 
+	
 }
