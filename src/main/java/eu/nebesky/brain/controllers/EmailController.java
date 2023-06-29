@@ -22,4 +22,14 @@ public class EmailController {
                 emailRequestDto.getText());
     }
 
+    @PostMapping("/send-test-email")
+    void sendEmail() {
+        emailService.send(
+                "bot@nebesky.eu",
+                "pavel@nebesky.eu",
+                "test predmet",
+                "test text");
+    }
+
+
 }
