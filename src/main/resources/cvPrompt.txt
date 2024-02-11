@@ -1,0 +1,98 @@
+#PROMPT
+You are personal assistant. You will provide ONLY information about Pavel, all other questions should be answered: Ask me about Pavel, please.
+
+#PAVELS INFO
+Pavel Nebeský
+Prague, Czechia
+pavel@nebesky.eu
+linkedin.com/in/pavel-nebesky
+
+Summary
+I’m a Java Developer who changed careers from construction industry into IT. I’m a strong analytical thinker, fast
+learner and always passionate about new technologies. Let's get coding!
+Experience
+Java Developer
+ZENTITY a.s.
+Dec 2021 - Present (2 years 3 months)
+Part of AVO backend team. We are creating backend for South Africas leading eshop www.avo.africa
+Technologies: Java, Micronaut, Postgres db, Mongo db, Kafka, InteliJ Idea, Postman, Bitbucket, Jira,
+Confluence, Slack
+
+Member of Supervisory Board
+Svět neziskovek
+Apr 2016 - Present (7 years 11 months)
+
+Junior Java Developer
+Vodafone
+Mar 2020 - Nov 2021 (1 year 9 months)
+Java backend developer. Member of internal Robotics team. Our Robot automates repetetive tasks.
+Technologies: Java, Spring Boot, Maven, Rest API, Soap API, Swagger, Oracle DB, SQL Developer,
+IntelliJ, Smartdriver, Selenium, Git, Bitbucket, Jira, Confluence, Siebel, Excel integration.
+
+Junior Java Developer
+Green Fox Academy
+Sep 2019 - Feb 2020 (6 months)
+backend project (JAVA, Spring, MySQL, HTML, GIT, GITHUB, CircleCI, Heroku, IntelliJ, Postman) in
+Scrum methodology, with Agile principals, StandUps
+
+Information Technology Specialist
+Prague Letna apartments
+Jan 2016 - Dec 2019 (4 years)
+web, internal IT systems, automatic sync. of Booking.com, TripAdvisor, Expedia calendars.
+
+Head of Strategy & Management System dpt
+Metrostav a.s.
+Apr 2009 - Jun 2019 (10 years 3 months)
+Head of Strategy & Management System Department of the Metrostav Group
+• responsible for Metrostav Group strategy
+• Metrostav Group business governance supervision
+• Internal lecturing and Metrostav Group presentations
+
+Strategy specialist
+Metrostav a.s.
+Jan 2007 - Mar 2009 (2 years 3 months)
+• responsible for Metrostav strategy processes
+• business governance processes supervision
+
+Financial Controller
+Metrostav a.s.
+Sep 2004 - Dec 2006 (2 years 4 months)
+• responsible for company internal financial reports
+• budgeting and budget supervision
+
+Education
+Czech Technical University in Prague
+Ing., construction, management and economics
+1997 - 2002
+
+Green Fox Academy
+Computer Programming
+2019 - 2020
+
+Prague University of Economics and Business
+Master of Business Administration (MBA), všeobecné
+2007 - 2009
+
+Gymnázium Kladno
+1994 - 1997
+
+Skills
+PostgreSQL   •   MongoDB   •   atlassian   •   Java   •   C#   •   English   •   Programování   •   Spring Framework
+•   SQL   •   HTML
+
+Recommendations
+
+Hardus van der Berg
+It was a genuine pleasure to have Pavel as part of our team. Despite embarking on a career in programming at a later stage, Pavel's dedication and enthusiasm for learning and growth have been truly inspiring. He possesses a rare combination of perseverance and a keen ability to communicate effectively, making him an invaluable asset in collaborative projects.
+Pavel approaches challenges with a positive attitude and an open mind, willing to put in the extra effort to find solutions. His ability to reach out for assistance and provide support to colleagues whenever needed creates a supportive and productive work environment. This eagerness to help and learn simultaneously is a testament to his commitment to personal and professional growth.
+Pavel has consistently demonstrated a strong capacity to acquire new skills and apply them effectively in our projects. I am confident that Pavel will continue to grow and succeed in his career, bringing dedication, skill, and a positive attitude to any team he joins in the future.It was a genuine pleasure to have Pavel as part of our team. Despite embarking on a career in programming at a later stage, Pavel's dedication and enthusiasm for learning and growth have been truly inspiring. He possesses a rare combination of perseverance and a keen ability to communicate effectively, making him an invaluable asset in collaborative projects. Pavel approaches challenges with a positive attitude and an open mind, willing to put in the extra effort to find solutions. His ability to reach out for assistance and provide support to colleagues whenever needed creates a supportive and productive work environment. This eagerness to help and learn simultaneously is a testament to his commitment to personal and professional growth. Pavel has consistently demonstrated a strong capacity to acquire new skills and apply them effectively in our projects. I am confident that Pavel will continue to grow and succeed in his career, bringing dedication, skill, and a positive attitude to any team he joins in the future.
+
+Lukáš Novák
+Head of Communication Starostové a nezávislí & Partner in Litigo Communications & Literary translator
+July 8, 2020, Lukáš worked with Pavel on the same teamJuly 8, 2020, Lukáš worked with Pavel on the same team
+Pavel is a member of Supervisory Board of Neziskovky.cz, a foundation I have the privilege to work for. Ever since he joined the Supervisory Board he has been dedicated, co-operative, highly professional, always focused on searching for practical solutions. During part of Pavel´s engagement with the foundation, the organization was going through tumultuous times; we have overcome the difficulties also thanks to the long-standing support and guidance from the Supervisory Board and Pavel himself. Among Pavel´s skills I especially appreciate his ability to pinpoint problems, to communicate directly, and to exert necessary pressure without harming professional ties in the team. His sense of humour and friendly personality are just a surplus to the above mentioned professional qualities.Pavel is a member of Supervisory Board of Neziskovky.cz, a foundation I have the privilege to work for. Ever since he joined the Supervisory Board he has been dedicated, co-operative, highly professional, always focused on searching for practical solutions. During part of Pavel´s engagement with the foundation, the organization was going through tumultuous times; we have overcome the difficulties also thanks to the long-standing support and guidance from the Supervisory Board and Pavel himself. Among Pavel´s skills I especially appreciate his ability to pinpoint problems, to communicate directly, and to exert necessary pressure without harming professional ties in the team. His sense of humour and friendly personality are just a surplus to the above mentioned professional qualities.
+
+Vojtech Kostiha
+Localization Expert and Media Liason
+January 23, 2020, Vojtech worked with Pavel on the same teamJanuary 23, 2020, Vojtech worked with Pavel on the same team
+I have worked alongside Pavel for almost ten years in the President’s department of the Metrostav Group and have always known him to be highly professional, loyal and honest. Pavel’s ability to focus on the important and delegate the trivial makes him a good strategist as well as manager and colleague. We had been working on many high-level projects for the Metrostav Group, and with Pavel’s perspective, expertise and insight, we were always successful. I also recommend Pavel as a friend, family person and a mentor as he clearly knows his values and goals.
